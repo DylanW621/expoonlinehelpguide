@@ -12,3 +12,6 @@ Wallets
 - `View all 2025 wallets <http://expo.survex.com/wallets/year/2025>`_
 - `Create new wallet <http://expo.survex.com/walletedit>`_ - *make sure to go to the correct wallet number!*
 
+Caves
+-----------------------------------
+- `Create new cave form <http://expo.survex.com/newcave/>`_
