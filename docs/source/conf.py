@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Expo link directory'
+copyright = '2025, Dylan Wase'
+author = 'Dylan Wase'
 
 release = '0.1'
 version = '0.1.0'
